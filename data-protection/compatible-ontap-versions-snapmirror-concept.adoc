@@ -137,7 +137,7 @@ SVM DR is only supported between clusters running the same version of ONTAP.
 
 |===																											
 																											
-h|	Source	10+h|	Destination																								
+h|	Destination	10+h|	Source																								
 																											
 |		|	9.12.1	|	9.11.1	|	9.10.1	|	9.9.1	|	9.8	|	9.7	|	9.6	|	9.5	|	9.4	|	9.3						
 |	9.12.1	|	Yes	|	Yes	|	Yes	|		|		|		|		|		|		|							
